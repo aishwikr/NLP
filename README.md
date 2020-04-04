@@ -23,7 +23,7 @@ b. Frequency statistics of the named entities
 c. The probability distribution of each of the POS tags
 
 
-##NLP_using_word2Vec
+### NLP_using_word2Vec
 Data:
 1. D: Dataset (first 1000 documents of dataset_1.csv from lab-01)
 2. QD : Set of 12 query documents (q_d.csv)
