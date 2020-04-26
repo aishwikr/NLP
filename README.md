@@ -21,7 +21,3 @@ statistics that you can generate are as follows:
 a. Frequency statistics of the terms
 b. Frequency statistics of the named entities
 c. The probability distribution of each of the POS tags
-
-
-### Text Processing
-Tokenization, Stopword extraction and lemmatization have been done.
